@@ -1,4 +1,5 @@
-![NATS](images/large-logo.png)
+
+![NATS](https://github.com/nats-io/java-nats-examples/blob/main/images/large-logo.png?raw=true)
 
 # NATS - .NET Examples
 
